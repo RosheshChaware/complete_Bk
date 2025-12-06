@@ -1,0 +1,16 @@
+{
+  "name": "complete_backend",
+  "version": "1.0.0",
+  "description": "mega backend project",
+  "keywords": [
+    "javascripr",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Roshesh Chaware",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
